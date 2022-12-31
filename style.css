@@ -18,7 +18,7 @@ html {
     overflow-y: hidden;
 }
 /* for happy new year */
-@media (min-width: 300px) and (max-width: 500px) {
+@media (min-width: 0px) and (max-width: 600px) {
     .hyn {
         width: 100%;
         font-family: 'Pacifico', cursive;
@@ -378,7 +378,7 @@ html {
 }
 
 
-@media (min-width: 501px) {
+@media (min-width: 601px) {
     .hyn {
         width: 100%;
         font-family: 'Pacifico', cursive;
